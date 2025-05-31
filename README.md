@@ -38,9 +38,8 @@ Database querying, data extraction, and manipulation techniques to work with str
 
 ## 🔗 Additional Resources
 
-- [Data Analyst Roadmap](https://www.dataquest.io/path/data-analyst/)
 - [SQL Practice](https://www.hackerrank.com/domains/sql)
-- [Python for Data Analysis](https://www.python-data-science.org/)
+- [Python for Data Analysis](https://docs.python.org/3/library/)
 - [Power BI Community](https://community.powerbi.com/)
 
 ## 📈 Career Opportunities
